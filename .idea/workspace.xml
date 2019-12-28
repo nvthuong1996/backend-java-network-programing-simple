@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6479d15a-690c-4d78-955d-8177932e2900" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQgLbFuMMsCK4lyHZOdrnL2TVr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.gamejava.model.dao.jdbcimpl" />
+      <recent name="com.example.gamejava.model.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gamejava.server.Server" />
+      <module name="gametracnghiem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamejava.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gamejava.client.login" />
+      <module name="gametracnghiem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamejava.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gamejava.client.test" />
+      <module name="gametracnghiem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gamejava.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.login" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6479d15a-690c-4d78-955d-8177932e2900" name="Default Changelist" comment="" />
+      <created>1577190677078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577190677078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="853" y="299" key="#com.intellij.ide.util.MemberChooser" timestamp="1577365299519">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="853" y="299" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1122@0.23.1920.1122" timestamp="1577365299519" />
+    <state x="732" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577195848970">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="732" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1577195848970" />
+    <state x="778" y="330" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577195784094">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="778" y="330" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1577195784094" />
+    <state width="486" height="466" key="DebuggerActiveHint" timestamp="1577363599101">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="486" height="466" key="DebuggerActiveHint/0.23.1920.1122@0.23.1920.1122" timestamp="1577363599101" />
+    <state width="1358" height="334" key="GridCell.Tab.0.bottom" timestamp="1577514243828">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.bottom/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243828" />
+    <state width="1358" height="334" key="GridCell.Tab.0.center" timestamp="1577514243823">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.center/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243823" />
+    <state width="1358" height="334" key="GridCell.Tab.0.left" timestamp="1577514243820">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.left/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243820" />
+    <state width="1358" height="334" key="GridCell.Tab.0.right" timestamp="1577514243825">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.0.right/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243825" />
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom" timestamp="1577514243602">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.bottom/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243602" />
+    <state width="1358" height="334" key="GridCell.Tab.1.center" timestamp="1577514243601">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.center/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243601" />
+    <state width="1358" height="334" key="GridCell.Tab.1.left" timestamp="1577514243601">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.left/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243601" />
+    <state width="1358" height="334" key="GridCell.Tab.1.right" timestamp="1577514243601">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state width="1358" height="334" key="GridCell.Tab.1.right/0.23.1920.1122@0.23.1920.1122" timestamp="1577514243601" />
+    <state x="613" y="299" key="SettingsEditor" timestamp="1577327509826">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="613" y="299" key="SettingsEditor/0.23.1920.1122@0.23.1920.1122" timestamp="1577327509826" />
+    <state x="756" y="479" key="com.intellij.ide.util.TipDialog" timestamp="1577513463730">
+      <screen x="0" y="23" width="1920" height="1122" />
+    </state>
+    <state x="756" y="479" key="com.intellij.ide.util.TipDialog/0.23.1920.1122@0.23.1920.1122" timestamp="1577513463730" />
+  </component>
+</project>
